@@ -1,5 +1,7 @@
-CKEditor 4 Presets Builder
-==========================
+Flight CKEditor 4 Presets Builder
+=================================
+
+This is forked from <https://github.com/ckeditor/ckeditor-presets> for use with the Drupal Flight installation profile <https://www.drupal.org/project/flight>.
 
 This builder is a tool that creates CKEditor release files for the main "preset" configurations officially distributed at <http://ckeditor.com>. It is targeted to the CKEditor core team, to test the preset builds, to update the ckeditor.com website on new releases and to generate the [nightly builds](http://nightly.ckeditor.com/).
 
